@@ -36,13 +36,13 @@ h1 {
 .cor1 {
     background-color: #ED145B;
     order: 0;
+    align-self: flex-start;
 }
 
 .cor2 {
     background-color: #63B1BC;
     order: 2;
-    row-gap: 30px;
-    margin-left: 120px;
+    margin-left: 130px;
 }
 
 .cor3 {
